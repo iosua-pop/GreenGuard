@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1025614666815",
+    "project_id": "greenguard-46f96",
+    "storage_bucket": "greenguard-46f96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025614666815:android:f1068825805d2314b2ac8a",
+        "android_client_info": {
+          "package_name": "com.example.greenguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025614666815-5gmv19ceau14dd11u3n1r4l0h8ilhccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMuYEvlxlcZlIau04D3nE5zA91TcIvI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025614666815-5gmv19ceau14dd11u3n1r4l0h8ilhccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025614666815-b9f7oketgk935okcn4itmf44i8sbap65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.greenguard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
